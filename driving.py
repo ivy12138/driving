@@ -5,4 +5,10 @@ if country=='Taiwan':
         print('Yes,you can')
     else:
         print('No')
+elif country=='America':
+    if age>=16:
+        print('Yes,you can')
+    else:
+        print('No')
+
 
