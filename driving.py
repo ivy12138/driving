@@ -10,5 +10,6 @@ elif country=='America':
         print('Yes,you can')
     else:
         print('No')
-
+else:
+    print('you can only enter Taiwan or America')
 
